@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Equations", "01-Equations", "{1067A8CE-F9A5-4F02-8269-C796B32EB008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-LinearEquation", "001-LinearEquation\001-LinearEquation.csproj", "{3E8FC53A-6A6C-404E-BA7F-A87D6D51F6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-QuadraticEquation", "002-QuadraticEquation\002-QuadraticEquation.csproj", "{8AC285CC-5C26-4071-966A-AF6004739CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-BiquadraticEquation", "003-BiquadraticEquation\003-BiquadraticEquation.csproj", "{4C5DD2BC-B82F-415C-8E2D-3F945985B0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E8FC53A-6A6C-404E-BA7F-A87D6D51F6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8FC53A-6A6C-404E-BA7F-A87D6D51F6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8FC53A-6A6C-404E-BA7F-A87D6D51F6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8FC53A-6A6C-404E-BA7F-A87D6D51F6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC285CC-5C26-4071-966A-AF6004739CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC285CC-5C26-4071-966A-AF6004739CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC285CC-5C26-4071-966A-AF6004739CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC285CC-5C26-4071-966A-AF6004739CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5DD2BC-B82F-415C-8E2D-3F945985B0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5DD2BC-B82F-415C-8E2D-3F945985B0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5DD2BC-B82F-415C-8E2D-3F945985B0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5DD2BC-B82F-415C-8E2D-3F945985B0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E8FC53A-6A6C-404E-BA7F-A87D6D51F6EB} = {1067A8CE-F9A5-4F02-8269-C796B32EB008}
+		{8AC285CC-5C26-4071-966A-AF6004739CF0} = {1067A8CE-F9A5-4F02-8269-C796B32EB008}
+		{4C5DD2BC-B82F-415C-8E2D-3F945985B0CF} = {1067A8CE-F9A5-4F02-8269-C796B32EB008}
+	EndGlobalSection
+EndGlobal
